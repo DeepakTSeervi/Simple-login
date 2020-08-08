@@ -1,2 +1,2 @@
 # Simple-login
-Login or Register
+This is a simple login / register page which is created by using Flask and Mysql
